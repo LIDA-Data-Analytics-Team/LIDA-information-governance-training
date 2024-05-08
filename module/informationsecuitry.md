@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Information Secuirty
-parent: IG Training Modules
+parent: LIDA IG Training Modules
 nav_order: 2
 ---
 
