@@ -513,5 +513,5 @@ It's important to know the measures in place to protect personal and sensitive d
 Furthermore, you might want to revisit this section later should you become involved in new projects, or if you think that some existing ways of working with data could be improved.
 
 ### Test your knowledge
-The following questions are based on what we have covered in this module. Please complete this question in the google form and send us the answers with 75% correct answers.
+The following questions are based on what we have covered in this module. Please complete this question in the microsfot form and send the screenshot of the answers where you have gained the pass mark of 80% and over.
 https://forms.office.com/e/FEtEEDhff2
