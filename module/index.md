@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Information Governance Modules
+title: Modules
 nav_order: 1
 has_children: true
 ---
