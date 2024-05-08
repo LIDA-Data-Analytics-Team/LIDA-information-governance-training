@@ -1,7 +1,7 @@
 ---
 layout: default
-title: IG Training Modules
-nav_exclude: false
+title: Information Governance Training Modules
+nav_exclude: true
 ---
 
 # Welcome 
