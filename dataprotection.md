@@ -1,3 +1,12 @@
+---
+layout: default
+title: Data Protection
+parent: IG Training Module
+nav_order: 1
+---
+
+
+
 # Data Protection
 
 Welcome to the University of Leeds Data Protection module. This is for staff, postgraduate researchers, contractors, and visitors who have access to University information. The module should take approximately 30-40 minutes to complete.
