@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Information Governance Training Modules
+title: LIDA IG Training Modules
 nav_exclude: true
 ---
 
